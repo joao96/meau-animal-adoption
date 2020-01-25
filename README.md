@@ -47,7 +47,7 @@ if you prefer:
 yarn
 ```
 
-_Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)_
+Before run android build, setup [Android Studio](https://facebook.github.io/react-native/docs/android-setup.html)_
 
 **Step 3:**
 
@@ -57,7 +57,7 @@ _Before run android build, setup [Android Studio](https://facebook.github.io/rea
 react-native run-android
 ```
 
-_Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)_
+Before running iOS build, Install [Xcode](https://developer.apple.com/xcode/download/)_
 
 ### If iOS
 
